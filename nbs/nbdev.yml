@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastai_blog"
+  site-url: "https://jaydrennan.github.io/fastai_blog"
+  description: "Blog of Things I've Learned From Fastai"
+  repo-branch: main
+  repo-url: "https://github.com/jaydrennan/fastai_blog"
